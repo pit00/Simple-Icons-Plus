@@ -1,6 +1,6 @@
 ## Simple Icons
 
-![Logo](./Logo.png)
+![logo](./assets/logo.png)
 
 # Introduction
 

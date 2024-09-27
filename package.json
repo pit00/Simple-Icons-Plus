@@ -10,7 +10,7 @@
     "engines": {
         "vscode": "^1.63.0"
     },
-    "icon": "LOGO.png",
+    "icon": "./assets/logo.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/pit00/Simple-Icons-Plus"
