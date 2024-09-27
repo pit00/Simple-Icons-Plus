@@ -2,11 +2,10 @@
     "file": "_file_default",
     "folder": "_folder_default_close",
     "folderExpanded": "_folder_default_open",
-
+    
     "fileExtensions": {
-
         // DEFAULT
-
+        
         //3d
         "stl": "3d",
         "obj": "3d",
@@ -20,7 +19,7 @@
         "vac": "3d",
         "vdp": "3d",
         "vox": "3d",
-
+        
         //audio
         "mp3": "audio",
         "flac": "audio",
@@ -28,7 +27,7 @@
         "wma": "audio",
         "aiff": "audio",
         "wav": "audio",
-
+        
         //font
         "woff": "font",
         "woff2": "font",
@@ -45,7 +44,7 @@
         "sui": "font",
         "ntf": "font",
         "mrf": "font",
-
+        
         //image
         "png": "image",
         "jpeg": "image",
@@ -96,33 +95,33 @@
         "pbm": "image",
         "pgm": "image",
         "pnm": "image",
-
+        
         //txt
         "txt" : "text",
-
-
-
+        
+        
+        
         // ADOBE
-
+        
         //adobe bridge
         "adobebridge" : "adobe-bridge",
         "bc" : "adobe-bridge",
         "bcm" : "adobe-bridge",
         "bct" : "adobe-bridge",
-
+        
         //adobe-aftereffects
         "aep" : "adobe-after-effects",
         "ae" : "adobe-after-effects",
-
+        
         //adobe-audition
         "sesx" : "adobe-audition",
-
+        
         //adobe-dreamweather
         "dwt" : "adobe-dreamweather",
-
+        
         //adobe-illustrator
         "ai" : "adobe-illustrator",
-
+        
         //adobe-incopy
         "inc" : "adobe-incopy",
         "icap" : "adobe-incopy",
@@ -130,7 +129,7 @@
         "icml" : "adobe-incopy",
         "inca" : "adobe-incopy",
         "incx" : "adobe-incopy",
-
+        
         //adobe-indesign
         "idap" : "adobe-indesign",
         "ind" : "adobe-indesign",
@@ -140,20 +139,19 @@
         "indt" : "adobe-indesign",
         "idml" : "adobe-indesign",
         "inx" : "adobe-indesign",
-
+        
         //adobe-lightroom
         "lr" : "adobe-lightroom",
-
+        
         //adobe-photoshop
         "psd" : "adobe-photoshop",
-
+        
         //adobe-premierepro
         "pproj" : "adobe-premiere-pro",
         "ppr" : "adobe-premiere-pro",
-
-
+        
         // MICROSOFT
-
+        
         //ms-docx
         "doc" : "ms-docx",
         "docm" : "ms-docx",
@@ -162,10 +160,10 @@
         "dotm" : "ms-docx",
         "dotx" : "ms-docx",
         "odt" : "ms-docx",
-
+        
         //ms-note
         "one" : "ms-note",
-
+        
         //ms-pptx
         "pot" : "ms-pptx",
         "potm" : "ms-pptx",
@@ -178,7 +176,7 @@
         "ppt" : "ms-pptx",
         "pptm" : "ms-pptx",
         "pptx" : "ms-pptx",
-
+        
         //ms-xlsx
         "csv" : "ms-xlsx",
         "ods" : "ms-xlsx",
@@ -192,24 +190,23 @@
         "xltm" : "ms-xlsx",
         "xltx" : "ms-xlsx",
         "xlw" : "ms-xlsx",
-
         
         // FILES
-
-        //ada 
+        
+        //ada
         "adb" : "ada",
         "ads" : "ada",
-
+        
         //agda
         "agda" : "agda",
         "lagda" : "agda",
         "lagda.md" : "agda",
         "lagda.rst" : "agda",
         "lagda.tex" : "agda",
-
+        
         //android
         "apk" : "android",
-
+        
         //angular
         "module.ts": "angular",
         "module.js": "angular",
@@ -227,11 +224,11 @@
         "directive.js": "angular",
         "resolver.ts": "angular",
         "resolver.js": "angular",
-
+        
         //apple
         "applescript": "apple",
         "ipa": "apple",
-
+        
         //assembly
         "asm": "asm",
         "a51": "asm",
@@ -244,125 +241,125 @@
         "argus": "asm",
         "mitigus": "asm",
         "binsource": "asm",
-
+        
         //binaries
         "exe" : "binaries",
         "dll" : "binaries",
         "dlc" : "binaries",
-
-        //brainfuck 
+        
+        //brainfuck
         "bf" : "brainfuck",
-
-        //c-- 
+        
+        //c--
         "c--" : "c--",
-
+        
         //c
         "c" : "c",
-
+        
         //cabal
         "cabal" : "cabal",
-
+        
         //clojure
         "clj" : "clojure",
         "cljs" : "clojure",
         "cljc" : "clojure",
-
+        
         //cmake
         "cmake": "cmake",
-
+        
         //cobol
         "cob": "cobol",
         "cbl": "cobol",
-
+        
         //cpp
         "cc": "cpp",
         "cpp": "cpp",
         "cxx": "cpp",
         "c++": "cpp",
         "cp": "cpp",
-
-        //crystal 
+        
+        //crystal
         "cr" : "crystal",
-
+        
         //csharp
         "cs": "csharp",
         "csx": "csharp",
-
+        
         //css
         "css": "css",
         "css.map": "css",
-
+        
         //d
         "d" : "d",
-
+        
         //dart
         "dart": "dart",
-
+        
         //docker
         "dockerignore": "docker",
         "dockerfile": "docker",
-
-        //ejs 
+        
+        //ejs
         "ejs" : "ejs",
-
-        //elexir 
+        
+        //elexir
         "ex" : "elexir",
         "exs" : "elexir",
-
-        //elm 
+        
+        //elm
         "elm" : "elm",
-
+        
         //env
         "env": "env",
-
+        
         //erlang
         "erl" : "erlang",
-
+        
         //fortan
         "f" : "fortan",
         "for" : "fortan",
         "f90" : "fortan",
-
+        
         //fsharp
         "fs" : "fsharp",
         "fsi" : "fsharp",
         "fsx" : "fsharp",
         "fsscript" : "fsharp",
-
+        
         //figma
         "fig" : "figma",
-
+        
         //git
         "patch": "git",
-
-        //glsl 
+        
+        //glsl
         "glsl" : "glsl",
-
+        
         //go
         "go" : "go",
-
+        
         //gradle
         "gradle": "gradle",
-
+        
         //graphql
         "graphql": "graphql",
         "gql": "graphql",
-
-        //groovy 
+        
+        //groovy
         "groovy" : "groovy",
-
+        
         //h
         "h" : "h",
-
+        
         //haskell
         "hs": "haskell",
-
+        
         //haxe
         "hx": "haxe",
-
+        
         //holyc
         "hc": "holyc",
-
+        
         //hpp
         "hh": "hpp",
         "hpp": "hpp",
@@ -371,107 +368,107 @@
         "hp": "hpp",
         "tcc": "hpp",
         "inl": "hpp",
-
+        
         //html
         "htm": "html",
         "html": "html",
         "xhtml": "html",
         "html_vm": "html",
         "asp": "html",
-
+        
         //idris
         "idr": "idris",
         "ibc": "idris",
-
+        
         //ini
         "ini" : "ini",
-
+        
         //jar
         "jar": "jar",
-
+        
         //java
         "java": "java",
         "jsp": "java",
-
+        
         //javaclass
         "class": "javaclass",
-
+        
         //javascript
         "js" : "javascript",
         "esx": "javascript",
-
+        
         //jetbrains
         "iml" : "jetbrains",
         "ipr" : "jetbrains",
         "iws" : "jetbrains",
-
-        //julia 
+        
+        //julia
         "jl" : "julia",
-
+        
         //json
         "json": "json",
         "tsbuildinfo": "json",
         "json5": "json",
         "jsonl": "json",
         "ndjson": "json",
-
+        
         //kotlin
         "kt": "kotlin",
         "kts": "kotlin",
-
-        //laravel 
+        
+        //laravel
         "blade.php": "laravel",
         "inky.php": "laravel",
-
-        //lisp 
+        
+        //lisp
         "lisp" : "lisp",
-
+        
         //lua
         "lua": "lua",
         
         //matlab
         "mat": "matlab",
-
+        
         //minecraft
         "mcfunction" : "minecraft",
-
+        
         //minecraft-meta
         "mcmeta" : "minecraft-meta",
-
-        //mjs 
+        
+        //mjs
         "mjs": "mjs",
-
+        
         //md
         "md": "md",
         "markdown": "md",
         "rst": "md",
-
-        //nim 
+        
+        //nim
         "nim" : "nim",
         "nims" : "nim",
-
+        
         //ninja
         "ninja" : "ninja",
-
+        
         //objc
         "m" : "objc",
         "mm" : "objc",
-
-        //pdf 
+        
+        //pdf
         "pdf" : "pdf",
-
+        
         //perl
         "pl" : "perl",
         "pm": "perl",
         "raku": "perl",
-
+        
         //php
         "php": "php",
-
+        
         //postcss
         "pcss": "postcss",
         "sss": "postcss",
-
+        
         //powershell
         "ps1": "powershell",
         "psm1": "powershell",
@@ -479,45 +476,45 @@
         "ps1xml": "powershell",
         "psc1": "powershell",
         "pssc": "powershell",
-
-        //prisma 
+        
+        //prisma
         "prisma" : "prisma",
-
+        
         //pyc
         "pyc": "pyc",
         "whl": "pyc",
-
+        
         //python
         "py": "python",
-
+        
         //quark
         "qrk" : "quark",
-
-        //r 
+        
+        //r
         "r" : "r",
-
+        
         //react
         "jsx": "react",
         "tsx": "react",
-
+        
         //ruby
         "rb": "ruby",
         "erb": "ruby",
-
+        
         //rust
         "rs": "rust",
-
+        
         //sass
         "scss": "sass",
         "sass": "sass",
-
-        //scala 
+        
+        //scala
         "sc" : "scala",
         "scala" : "scala",
-
+        
         //solidity
         "sol" : "solidity",
-
+        
         //sql
         "db": "sql",
         "sql": "sql",
@@ -525,44 +522,44 @@
         "sqlite3": "sql",
         "pgsql": "sql",
         "psql": "sql",
-
+        
         //svelte
         "svelte" : "svelte",
-
+        
         //svg
         "svg": "svg",
-
+        
         //swift
         "swift": "swift",
-
+        
         //terrabyte
         "tbs": "terrabyte",
-
+        
         //text
         "plaintext": "document",
-
+        
         //typescript
         "d.ts": "typescript",
         "ts": "typescript",
-
+        
         //vim
         "vimrc": "vim",
         "gvimrc": "vim",
         "exrc": "vim",
         "vim": "vim",
         "viminfo": "vim",
-
+        
         //toml
         "toml": "toml",
-
-        //unity 
+        
+        //unity
         "meta" : "unity",
-
+        
         //vbs
         "vb": "vba",
         "vba": "vba",
         "vbs": "vba",
-
+        
         //visualstudio
         "csproj": "visualstudio",
         "ruleset": "visualstudio",
@@ -572,20 +569,20 @@
         "vcxitems.filters": "visualstudio",
         "vcxproj": "visualstudio",
         "vcxproj.filters": "visualstudio",
-
+        
         //vue
         "vue": "vue",
-
+        
         //vsc
         "vscodeignore": "vsc",
         "vsixmanifest": "vsc",
         "vsix": "vsc",
         "code-workplace": "vsc",
-
+        
         //wasm
         "wat": "wasm",
         "wasm": "wasm",
-
+        
         //xml
         "xml": "xml",
         "plist": "xml",
@@ -601,241 +598,238 @@
         "xml.dist": "xml",
         "xml.dist.sample": "xml",
         "dmn": "xml",
-
+        
         //yaml
         "yml": "yaml",
         "yaml": "yaml",
         "yml.dist": "yaml",
         "yaml.dist": "yaml",
         "YAML-tmLanguage": "yaml",
-
+        
         //zig
         "zig" : "zig",
-
-        //zip  
+        
+        //zip
         "zip" : "zip",
         "gz" : "zip",
         "tar" : "zip",
         "tar.gz" : "zip",
-        "rar" : "zip",
+        "rar" : "zip"
     },
-
+    
     "languageIds": {
-
         //angular
         "ng-template": "angular",
-
+        
         //apple
         "applescript": "applescript",
-
+        
         //bash
         "shellscript": "bash",
-
+        
         //batch
         "bat": "batch",
-
+        
         //c
         "c": "c",
-
+        
         //clojure
         "clojure": "clojure",
-
+        
         //cpp
         "cpp": "cpp",
-
+        
         //csharp
         "csharp": "csharp",
-
+        
         //css
         "css": "css",
-
+        
         //dart
         "dart": "dart",
-
+        
         //docker
         "dockerfile": "docker",
-
+        
         //editor-config
         "editor-config": "editor-config",
-
+        
         //fsharp
         "fsharp" : "fsharp",
-
+        
         //git
         "git": "git",
         "git-commit": "git",
         "git-rebase": "git",
         "ignore": "git",
-
+        
         //go
         "go": "go",
-
+        
         //graphql
         "graphql": "graphql",
-
-        //groovy 
+        
+        //groovy
         "groovy" : "groovy",
-
+        
         //haskell
         "haskell": "haskell",
-
+        
         //haxe
         "haxe": "haxe",
         "hxml": "haxe",
-
+        
         //html
         "html": "html",
-
+        
         //idris
         "idris": "idris",
-
+        
         //java
         "java": "java",
-
+        
         //javascript
         "javascript" : "javascript",
-
+        
         //julia
         "julia" : "julia",
         "juliamarkdown" : "julia",
-
+        
         //json
         "json": "json",
         "jsonc": "json",
         "json5": "json",
-
+        
         //lua
         "lua": "lua",
-
+        
         //md
         "markdown": "md",
-
+        
         //matlab
         "matlab": "matlab",
-
+        
         //objc
         "objective-c": "objc",
         "objective-cpp": "objc",
-
+        
         //perl
         "perl": "perl",
         "perl6": "perl",
-
+        
         //php
         "php": "php",
-
+        
         //postcss
         "postcss": "postcss",
-
+        
         //powershell
         "powershell": "powershell",
-
+        
         //pyc
         "pip-requirements": "pyc",
-
+        
         //python
         "python": "python",
-
-        //r 
+        
+        //r
         "r" : "r",
-
+        
         //react
         "javascriptreact": "react",
         "typescriptreact": "react",
-
+        
         //ruby
         "ruby": "ruby",
-
+        
         //rust
         "rust": "rust",
-
+        
         //sass
         "sass": "sass",
         "scss": "sass",
-
+        
         //sql
         "sql": "sql",
-
+        
         //svg
         "svg": "svg",
-
+        
         //swift
         "swift": "swift",
-
+        
         //typescript
         "typescript": "typescript",
-
+        
         //toml
         "toml": "toml",
-
-        //unity 
+        
+        //unity
         "shaderlab" : "unity",
-
+        
         //vbs
         "vb" : "vbs",
-
+        
         //vim
         "viml": "vim",
-
+        
         //visualstudio
         "testOutput": "visualstudio",
-
+        
         //vsc
         "vscodeignore": "vsc",
         "vsixmanifest": "vsc",
         "vsix": "vsc",
         "code-workplace": "vsc",
-
+        
         //vue
         "vue": "vue",
         "vue-postcss": "vue",
         "vue-html": "vue",
-
+        
         //xml
         "xml": "xml",
         "xquery": "xml",
         "xsl": "xml",
-
+        
         //yaml
-        "yaml": "yaml",
-
+        "yaml": "yaml"
     },
-
+    
     "fileNames": {
-
         //angular
         "angular-cli.json": "angular",
         ".angular-cli.json": "angular",
         "angular.json": "angular",
-
-        //astro 
+        
+        //astro
         "astro.mjs" : "astro",
-
-        //blitz 
+        
+        //blitz
         "blitz.config.js" : "blitz",
-
-        //cabal 
+        
+        //cabal
         "cabal.project.local" : "cabal",
         "cabal.project" : "cabal",
-
+        
         //cargo
         "cargo.toml" : "cargo",
-
+        
         //changelog
         "changelog" : "changelog",
         "changelog.md" : "changelog",
         "changelog.txt" : "changelog",
-
+        
         //cmake
         "cmakelists.txt": "cmake",
         "cmakecache.txt": "cmake",
-
+        
         //dart
         ".pubignore": "dart",
-
-        //django 
+        
+        //django
         "manage.py" : "django",
-
+        
         //docker
         "dockerfile": "docker",
         "dockerfile.prod": "docker",
@@ -884,10 +878,10 @@
         "docker-compose.ci.yaml": "docker",
         "docker-compose.web.yaml": "docker",
         "docker-compose.worker.yaml": "docker",
-
+        
         //editor-config
         ".editorconfig": "editor-config",
-
+        
         //env
         ".env.defaults": "env",
         ".env.example": "env",
@@ -911,7 +905,7 @@
         ".env.production.local": "env",
         ".env.staging.local": "env",
         ".env.test.local": "env",
-
+        
         //eslint
         ".eslintrc.js": "eslint",
         ".eslintrc.cjs": "eslint",
@@ -923,10 +917,10 @@
         ".eslintrc": "eslint",
         ".eslintignore": "eslint",
         ".eslintcache": "eslint",
-
-        //gemfile 
+        
+        //gemfile
         "gemfile": "gemfile",
-
+        
         //git
         ".gitignore": "git",
         ".gitignore_global": "git",
@@ -936,16 +930,16 @@
         ".gitkeep": "git",
         ".gitinclude": "git",
         "git-history": "git",
-
+        
         //go
         "go.mod": "gomod",
         "go.sum": "gomod",
-
+        
         //gradle
         "gradle.properties": "gradle",
         "gradlew": "gradle",
         "gradle-wrapper.properties": "gradle",
-
+        
         //graphql
         ".graphqlconfig": "graphql",
         ".graphqlrc": "graphql",
@@ -961,17 +955,17 @@
         "graphql.config.toml": "graphql",
         "graphql.config.yaml": "graphql",
         "graphql.config.yml": "graphql",
-
-        //heroku 
+        
+        //heroku
         "Procfile" : "heroku",
-
+        
         //jest
         "jest.config.js" : "jest",
-
+        
         //jetbrains
         "modules.xml" : "jetbrains",
         "workspace.xml" : "jetbrains",
-
+        
         //json
         ".jscsrc": "json",
         ".jshintrc": "json",
@@ -980,48 +974,48 @@
         ".esformatter": "json",
         "cdp.pid": "json",
         ".lintstagedrc": "json",
-
+        
         //kotlin-main
         "Main.kt" : "kotlin-main",
         "Main.kts" : "kotlin-main",
-
-        //laravel 
+        
+        //laravel
         "artisan": "laravel",
-
+        
         //license
         "license" : "license",
         "license.md" : "license",
         "license.txt" : "license",
-
+        
         //lua
         ".luacheckrc": "lua",
-
+        
         //maven
         "maven.config": "maven",
         "jvm.config": "maven",
-
+        
         //minecraft-pack
         "pack.mcmeta" : "minecraft-pack",
-
+        
         //next
         "next.config.js": "next",
         "next.config.ts": "next",
-
+        
         //node
         "package.json": "node",
         "package-lock.json": "node",
         ".nvmrc": "node",
         ".esmrc": "node",
         ".node-version": "node",
-
+        
         //npm
         ".npmignore": "npm",
         ".npmrc": "npm",
-
+        
         //nuxt
         "nuxt.config.js" : "nuxt",
         "nuxt.config.ts" : "nuxt",
-
+        
         //postcss
         "postcss.config.js": "postcss",
         "postcss.config.cjs": "postcss",
@@ -1029,7 +1023,7 @@
         ".postcssrc": "postcss",
         ".postcssrc.json": "postcss",
         ".postcssrc.yml": "postcss",
-
+        
         //pyc
         "requirements.txt": "pyc",
         "pipfile": "pyc",
@@ -1037,77 +1031,75 @@
         "manifest.in": "pyc",
         "pylintrc": "pyc",
         ".pylintrc": "pyc",
-
+        
         //readme
         "readme" : "readme",
         "readme.md" : "readme",
         "readme.txt" : "readme",
-
-        //redwood 
+        
+        //redwood
         "redwood.toml" : "redwood",
-
-        //rollup 
+        
+        //rollup
         "rollup.config.js" : "rollup",
-
-         //todo 
-         "todo" : "todo",
-         "todo.md" : "todo",
-         "todo.txt" : "todo",
-         "Todo" : "todo",
-         "Todo.md" : "todo",        
-         "Todo.txt" : "todo",
-         "TODO" : "todo",
-         "TODO.md" : "todo",        
-         "TODO.txt" : "todo", 
-
+        
+        //todo
+        "todo" : "todo",
+        "todo.md" : "todo",
+        "todo.txt" : "todo",
+        "Todo" : "todo",
+        "Todo.md" : "todo",
+        "Todo.txt" : "todo",
+        "TODO" : "todo",
+        "TODO.md" : "todo",
+        "TODO.txt" : "todo",
+        
         //tailwind
         "tailwind.js": "tailwind",
         "tailwind.ts": "tailwind",
         "tailwind.config.js": "tailwind",
         "tailwind.config.ts": "tailwind",
         "tailwind.config.cjs": "tailwind",
-
-        //tauri 
+        
+        //tauri
         "tauri.conf.json" : "tauri",
-
+        
         //vsc
         "launch.json" : "vsc",
-
-        //vite 
+        
+        //vite
         "vite.config.js" : "vite",
         "vite.config.ts" : "vite",
-
+        
         //vue
         "vue.config.js": "vue",
         "vue.config.ts": "vue",
         "vetur.config.js": "vue",
         "vetur.config.ts": "vue",
-
-        //webpack 
+        
+        //webpack
         "webpack.config.js" : "webpack",
-
+        
         //xml
         ".htaccess": "xml",
-
+        
         //award
-        "_THANK YOU 1K": "award-1k",
-
+        "_THANK YOU 1K": "award-1k"
     },
-
+    
     "folderNames": {
-
         //abstract
         "abstract" : "folder-abstract",
         "abstracts" : "folder-abstract",
-
+        
         //admin
         "admin" : "folder-admin",
         "admins" : "folder-admin",
-
+        
         //angular
         "ng" : "folder-angular",
         "angular" : "folder-angular",
-
+        
         //anim
         "anim" : "folder-anim",
         "anims" : "folder-anim",
@@ -1115,14 +1107,14 @@
         "animations" : "folder-anim",
         "gif" : "folder-anim",
         "gifs" : "folder-anim",
-
+        
         //api
         "api" : "folder-api",
-
+        
         //app
         "app" : "folder-app",
         "apps" : "folder-app",
-
+        
         //audio
         "audio" : "folder-audio",
         "audios" : "folder-audio",
@@ -1130,51 +1122,51 @@
         "sounds" : "folder-audio",
         "music" : "folder-audio",
         "musics" : "folder-audio",
-
+        
         //class
         "class" : "folder-class",
         "classes" : "folder-class",
-
+        
         //client
         "client" : "folder-client",
         "clients" : "folder-client",
         "front" : "folder-client",
         "fronted" : "folder-client",
-
+        
         //cloud
         "cloud" : "folder-cloud",
         "clouds" : "folder-cloud",
         "aws" : "folder-cloud",
         "gcs" : "folder-cloud",
-
+        
         //cluster
         "cluster" : "folder-cluster",
         "clusters" : "folder-cluster",
-
+        
         //command
         "command" : "folder-command",
         "commands" : "folder-command",
         "bin" : "folder-command",
         "cmd" : "folder-command",
-
+        
         //component
         "component" : "folder-component",
         "components" : "folder-component",
-
+        
         //config
         "config" : "folder-config",
         "configs" : "folder-config",
         "cfg" : "folder-config",
         "cfgs" : "folder-config",
-
+        
         //contract
         "contract" : "folder-contract",
         "contracts" : "folder-contract",
-
+        
         //core
         "core" : "folder-core",
         "cores" : "folder-core",
-
+        
         //database
         "database" : "folder-database",
         "databases" : "folder-database",
@@ -1183,51 +1175,51 @@
         "sql" : "folder-database",
         "model" : "folder-database",
         "models" : "folder-database",
-
+        
         //dist
         "build" : "folder-dist",
         "dist" : "folder-dist",
         "out" : "folder-dist",
         "release" : "folder-dist",
-
+        
         //docker
         "docker" : "folder-docker",
-
+        
         //docs
         "doc" : "folder-docs",
         "docs" : "folder-docs",
         "document" : "folder-docs",
         "documentation" : "folder-docs",
         "documentations" : "folder-docs",
-
+        
         //download
         "download" : "folder-download",
         "downloads" : "folder-download",
-
+        
         //error
         "error" : "folder-error",
         "errors" : "folder-error",
-
+        
         //event
         "event" : "folder-event",
         "events" : "folder-event",
-
+        
         //font
         "font" : "folder-font",
         "fonts" : "folder-font",
-
+        
         //git
         "git" : "folder-git",
         ".git" : "folder-git",
-
+        
         //gradle
         "gradle" : "folder-gradle",
         ".gradle" : "folder-gradle",
-
+        
         //home
         "home" : "folder-home",
         "homes" : "folder-home",
-
+        
         //image
         "image" : "folder-image",
         "images" : "folder-image",
@@ -1236,37 +1228,37 @@
         "assets" : "folder-image",
         "icon" : "folder-image",
         "icons" : "folder-image",
-
+        
         //in
         "in" : "folder-in",
         "input" : "folder-in",
-
+        
         //interface
         "interface" : "folder-interface",
         "interfaces" : "folder-interface",
-
+        
         //ios
         "ios" : "folder-ios",
         "apple" : "folder-ios",
         "mac" : "folder-ios",
-
+        
         //java
         "java" : "folder-java",
         "jar" : "folder-java",
-
+        
         //javascript
         "javascript" : "folder-javascript",
         "js" : "folder-javascript",
         "script" : "folder-javascript",
-
+        
         //keys
         "keys" : "folder-keys",
         "key" : "folder-keys",
-
+        
         //layout
         "layout" : "folder-layout",
         "ui" : "folder-layout",
-
+        
         //lib
         "lib" : "folder-lib",
         "libs" : "folder-lib",
@@ -1274,16 +1266,16 @@
         "libraries" : "folder-lib",
         "ressource" : "folder-lib",
         "ressources" : "folder-lib",
-
+        
         //log
         "log" : "folder-log",
         "logs" : "folder-log",
         "history" : "folder-log",
-
+        
         //middleware
         "middleware" : "folder-middleware",
         "middlewares" : "folder-middleware",
-
+        
         //network
         "network" : "folder-network",
         "networks" : "folder-network",
@@ -1291,19 +1283,19 @@
         "packets" : "folder-network",
         "route" : "folder-network",
         "routes" : "folder-network",
-
+        
         //node
         "node" : "folder-node",
         "node_modules" : "folder-node",
         ".node" : "folder-node",
         ".node_modules" : "folder-node",
-
+        
         //package
         "package" : "folder-package",
         "packages" : "folder-package",
         "pkg" : "folder-package",
         "pkgs" : "folder-package",
-
+        
         //page
         "page" : "folder-page",
         "pages" : "folder-page",
@@ -1311,27 +1303,27 @@
         "views" : "folder-page",
         "html" : "folder-page",
         "htm" : "folder-page",
-
+        
         //pipe
         "pipe" : "folder-pipe",
         "pipes" : "folder-pipe",
-
+        
         //private
         "private" : "folder-private",
         "lock" : "folder-private",
-
+        
         //server
         "server" : "folder-server",
         "servers" : "folder-server",
         "back" : "folder-server",
         "backend" : "folder-server",
-
+        
         //src
         "src" : "folder-src",
         "source" : "folder-src",
         "controller" : "folder-src",
         "controllers" : "folder-src",
-
+        
         //style
         "style" : "folder-style",
         "styles" : "folder-style",
@@ -1339,44 +1331,43 @@
         "stylesheets" : "folder-style",
         "scss" : "folder-style",
         "sass" : "folder-style",
-
+        
         //temp
         "temp" : "folder-temp",
-
+        
         //test
         "test" : "folder-test",
         "tests" : "folder-test",
-
+        
         //typescript
         "typescript" : "folder-typescript",
         "ts" : "folder-typescript",
-
+        
         //vm
         "vm" : "folder-vm",
-
+        
         //vscode
         "vscode" : "folder-vscode",
         ".vscode" : "folder-vscode",
-
+        
         //yarn
         "yarn" : "folder-yarn",
-        ".yarn" : "folder-yarn",
+        ".yarn" : "folder-yarn"
     },
-
+    
     "folderNamesExpanded": {
-
         //abstract
         "abstract" : "folder-abstract-open",
         "abstracts" : "folder-abstract-open",
-
+        
         //admin
         "admin" : "folder-admin-open",
         "admins" : "folder-admin-open",
-
+        
         //angular
         "ng" : "folder-angular-open",
         "angular" : "folder-angular-open",
-
+        
         //anim
         "anim" : "folder-anim-open",
         "anims" : "folder-anim-open",
@@ -1384,14 +1375,14 @@
         "animations" : "folder-anim-open",
         "gif" : "folder-anim-open",
         "gifs" : "folder-anim-open",
-
+        
         //api
         "api" : "folder-api-open",
-
+        
         //app
         "app" : "folder-app-open",
         "apps" : "folder-app-open",
-
+        
         //audio
         "audio" : "folder-audio-open",
         "audios" : "folder-audio-open",
@@ -1399,51 +1390,51 @@
         "sounds" : "folder-audio-open",
         "music" : "folder-audio-open",
         "musics" : "folder-audio-open",
-
+        
         //class
         "class" : "folder-class-open",
         "classes" : "folder-class-open",
-
+        
         //client
         "client" : "folder-client-open",
         "clients" : "folder-client-open",
         "front" : "folder-client-open",
         "fronted" : "folder-client-open",
-
+        
         //cloud
         "cloud" : "folder-cloud-open",
         "clouds" : "folder-cloud-open",
         "aws" : "folder-cloud-open",
         "gcs" : "folder-cloud-open",
-
+        
         //cluster
         "cluster" : "folder-cluster-open",
         "clusters" : "folder-cluster-open",
-
+        
         //command
         "command" : "folder-command-open",
         "commands" : "folder-command-open",
         "bin" : "folder-command-open",
         "cmd" : "folder-command-open",
-
+        
         //component
         "component" : "folder-component-open",
         "components" : "folder-component-open",
-
+        
         //config
         "config" : "folder-config-open",
         "configs" : "folder-config-open",
         "cfg" : "folder-config-open",
         "cfgs" : "folder-config-open",
-
+        
         //contract
         "contract" : "folder-contract-open",
         "contracts" : "folder-contract-open",
-
+        
         //core
         "core" : "folder-core-open",
         "cores" : "folder-core-open",
-
+        
         //database
         "database" : "folder-database-open",
         "databases" : "folder-database-open",
@@ -1452,49 +1443,49 @@
         "sql" : "folder-database-open",
         "model" : "folder-database-open",
         "models" : "folder-database-open",
-
+        
         //dist
         "dist" : "folder-dist-open",
         "out" : "folder-dist-open",
-
+        
         //docker
         "docker" : "folder-docker-open",
-
+        
         //docs
         "doc" : "folder-docs-open",
         "docs" : "folder-docs-open",
         "document" : "folder-docs-open",
         "documentation" : "folder-docs-open",
         "documentations" : "folder-docs-open",
-
+        
         //download
         "download" : "folder-download-open",
         "downloads" : "folder-download-open",
-
+        
         //error
         "error" : "folder-error-open",
         "errors" : "folder-error-open",
-
+        
         //event
         "event" : "folder-event-open",
         "events" : "folder-event-open",
-
+        
         //font
         "font" : "folder-font-open",
         "fonts" : "folder-font-open",
-
+        
         //git
         "git" : "folder-git-open",
         ".git" : "folder-git-open",
-
+        
         //gradle
         "gradle" : "folder-gradle-open",
         ".gradle" : "folder-gradle-open",
-
+        
         //home
         "home" : "folder-home-open",
         "homes" : "folder-home-open",
-
+        
         //image
         "image" : "folder-image-open",
         "images" : "folder-image-open",
@@ -1503,51 +1494,51 @@
         "assets" : "folder-image-open",
         "icon" : "folder-image-open",
         "icons" : "folder-image-open",
-
+        
         //in
         "in" : "folder-in-open",
         "input" : "folder-in-open",
-
+        
         //interface
         "interface" : "folder-interface-open",
         "interfaces" : "folder-interface-open",
-
+        
         //ios
         "ios" : "folder-ios-open",
         "apple" : "folder-ios-open",
         "mac" : "folder-ios-open",
-
+        
         //java
         "java" : "folder-java-open",
         "jar" : "folder-java-open",
-
+        
         //javascript
         "javascript" : "folder-javascript-open",
         "js" : "folder-javascript-open",
         "script" : "folder-javascript-open",
-
+        
         //keys
         "keys" : "folder-keys-open",
         "key" : "folder-keys-open",
-
+        
         //layout
         "layout" : "folder-layout-open",
         "ui" : "folder-layout-open",
-
+        
         //lib
         "lib" : "folder-lib-open",
         "libs" : "folder-lib-open",
         "libraries" : "folder-lib-open",
-
+        
         //log
         "log" : "folder-log-open",
         "logs" : "folder-log-open",
         "history" : "folder-log-open",
-
+        
         //middleware
         "middleware" : "folder-middleware-open",
         "middlewares" : "folder-middleware-open",
-
+        
         //network
         "network" : "folder-network-open",
         "networks" : "folder-network-open",
@@ -1555,19 +1546,19 @@
         "packets" : "folder-network-open",
         "route" : "folder-network-open",
         "routes" : "folder-network-open",
-
+        
         //node
         "node" : "folder-node-open",
         "node_modules" : "folder-node-open",
         ".node" : "folder-node-open",
         ".node_modules" : "folder-node-open",
-
+        
         //package
         "package" : "folder-package-open",
         "packages" : "folder-package-open",
         "pkg" : "folder-package-open",
         "pkgs" : "folder-package-open",
-
+        
         //page
         "page" : "folder-page-open",
         "pages" : "folder-page-open",
@@ -1575,27 +1566,27 @@
         "views" : "folder-page-open",
         "html" : "folder-page-open",
         "htm" : "folder-page-open",
-
+        
         //pipe
         "pipe" : "folder-pipe-open",
         "pipes" : "folder-pipe-open",
-
+        
         //private
         "private" : "folder-private-open",
         "lock" : "folder-private-open",
-
+        
         //server
         "server" : "folder-server-open",
         "servers" : "folder-server-open",
         "back" : "folder-server-open",
         "backend" : "folder-server-open",
-
+        
         //src
         "src" : "folder-src-open",
         "source" : "folder-src-open",
         "controller" : "folder-src-open",
         "controllers" : "folder-src-open",
-
+        
         //style
         "style" : "folder-style-open",
         "styles" : "folder-style-open",
@@ -1603,32 +1594,31 @@
         "stylesheets" : "folder-style-open",
         "scss" : "folder-style-open",
         "sass" : "folder-style-open",
-
+        
         //temp
         "temp" : "folder-temp-open",
-
+        
         //test
         "test" : "folder-test-open",
         "tests" : "folder-test-open",
-
+        
         //typescript
         "typescript" : "folder-typescript-open",
         "ts" : "folder-typescript-open",
-
+        
         //vm
         "vm" : "folder-vm-open",
-
+        
         //vscode
         "vscode" : "folder-vscode-open",
         ".vscode" : "folder-vscode-open",
-
+        
         //yarn
         "yarn" : "folder-yarn-open",
-        ".yarn" : "folder-yarn-open",
+        ".yarn" : "folder-yarn-open"
     },
-
+    
     "iconDefinitions": {
-
         //default
         "_file_default" : {
             "iconPath": "../../assets/icons/File_default.svg"
@@ -1654,7 +1644,7 @@
         "font" : {
             "iconPath": "../../assets/icons/File_font.svg"
         },
-
+        
         //files
         "ada" : {
             "iconPath": "../../assets/icons/Ada.svg"
@@ -2031,9 +2021,7 @@
         "zip" : {
             "iconPath": "../../assets/icons/ZIP.svg"
         },
-
-
-
+        
         //FOLDERS
         "folder-abstract" : {
             "iconPath": "../../assets/icons/Folder_ABSTRACT_close.svg"
@@ -2041,385 +2029,385 @@
         "folder-abstract-open" : {
             "iconPath": "../../assets/icons/Folder_ABSTRACT_open.svg"
         },
-
+        
         "folder-admin" : {
             "iconPath": "../../assets/icons/Folder_ADMIN_close.svg"
         },
         "folder-admin-open" : {
             "iconPath": "../../assets/icons/Folder_ADMIN_open.svg"
         },
-
+        
         "folder-android" : {
             "iconPath": "../../assets/icons/Folder_ANDROID_close.svg"
         },
         "folder-android-open" : {
             "iconPath": "../../assets/icons/Folder_ANDROID_open.svg"
         },
-
+        
         "folder-angular" : {
             "iconPath": "../../assets/icons/Folder_ANGULAR_close.svg"
         },
         "folder-angular-open" : {
             "iconPath": "../../assets/icons/Folder_ANGULAR_open.svg"
         },
-
+        
         "folder-anim" : {
             "iconPath": "../../assets/icons/Folder_ANIM_close.svg"
         },
         "folder-anim-open" : {
             "iconPath": "../../assets/icons/Folder_ANIM_open.svg"
         },
-
+        
         "folder-api" : {
             "iconPath": "../../assets/icons/Folder_API_close.svg"
         },
         "folder-api-open" : {
             "iconPath": "../../assets/icons/Folder_API_open.svg"
         },
-
+        
         "folder-app" : {
             "iconPath": "../../assets/icons/Folder_APP_close.svg"
         },
         "folder-app-open" : {
             "iconPath": "../../assets/icons/Folder_APP_open.svg"
         },
-
+        
         "folder-archive" : {
             "iconPath": "../../assets/icons/Folder_ARCHIVE_close.svg"
         },
         "folder-archive-open" : {
             "iconPath": "../../assets/icons/Folder_ARCHIVE_open.svg"
         },
-
+        
         "folder-audio" : {
             "iconPath": "../../assets/icons/Folder_AUDIO_close.svg"
         },
         "folder-audio-open" : {
             "iconPath": "../../assets/icons/Folder_AUDIO_open.svg"
         },
-
+        
         "folder-class" : {
             "iconPath": "../../assets/icons/Folder_CLASS_close.svg"
         },
         "folder-class-open" : {
             "iconPath": "../../assets/icons/Folder_CLASS_open.svg"
         },
-
+        
         "folder-client" : {
             "iconPath": "../../assets/icons/Folder_CLIENT_close.svg"
         },
         "folder-client-open" : {
             "iconPath": "../../assets/icons/Folder_CLIENT_open.svg"
         },
-
+        
         "folder-cloud" : {
             "iconPath": "../../assets/icons/Folder_CLOUD_close.svg"
         },
         "folder-cloud-open" : {
             "iconPath": "../../assets/icons/Folder_CLOUD_open.svg"
         },
-
+        
         "folder-cluster" : {
             "iconPath": "../../assets/icons/Folder_CLUSTER_close.svg"
         },
         "folder-cluster-open" : {
             "iconPath": "../../assets/icons/Folder_CLUSTER_open.svg"
         },
-
+        
         "folder-command" : {
             "iconPath": "../../assets/icons/Folder_COMMAND_close.svg"
         },
         "folder-command-open" : {
             "iconPath": "../../assets/icons/Folder_COMMAND_open.svg"
         },
-
+        
         "folder-component" : {
             "iconPath": "../../assets/icons/Folder_COMPONENTS_close.svg"
         },
         "folder-component-open" : {
             "iconPath": "../../assets/icons/Folder_COMPONENTS_open.svg"
         },
-
+        
         "folder-config" : {
             "iconPath": "../../assets/icons/Folder_CONFIG_close.svg"
         },
         "folder-config-open" : {
             "iconPath": "../../assets/icons/Folder_CONFIG_open.svg"
         },
-
+        
         "folder-contract" : {
             "iconPath": "../../assets/icons/Folder_CONTRACT_close.svg"
         },
         "folder-contract-open" : {
             "iconPath": "../../assets/icons/Folder_CONTRACT_open.svg"
         },
-
+        
         "folder-core" : {
             "iconPath": "../../assets/icons/Folder_CORE_close.svg"
         },
         "folder-core-open" : {
             "iconPath": "../../assets/icons/Folder_CORE_open.svg"
         },
-
+        
         "folder-database" : {
             "iconPath": "../../assets/icons/Folder_DATABASE_close.svg"
         },
         "folder-database-open" : {
             "iconPath": "../../assets/icons/Folder_DATABASE_open.svg"
         },
-
+        
         "folder-dist" : {
             "iconPath": "../../assets/icons/Folder_DIST_close.svg"
         },
         "folder-dist-open" : {
             "iconPath": "../../assets/icons/Folder_DIST_open.svg"
         },
-
+        
         "folder-docker" : {
             "iconPath": "../../assets/icons/Folder_DOCKER_close.svg"
         },
         "folder-docker-open" : {
             "iconPath": "../../assets/icons/Folder_DOCKER_open.svg"
         },
-
+        
         "folder-docs" : {
             "iconPath": "../../assets/icons/Folder_DOCS_close.svg"
         },
         "folder-docs-open" : {
             "iconPath": "../../assets/icons/Folder_DOCS_open.svg"
         },
-
+        
         "folder-download" : {
             "iconPath": "../../assets/icons/Folder_DOWNLOAD_close.svg"
         },
         "folder-download-open" : {
             "iconPath": "../../assets/icons/Folder_DOWNLOAD_open.svg"
         },
-
+        
         "folder-error" : {
             "iconPath": "../../assets/icons/Folder_ERROR_close.svg"
         },
         "folder-error-open" : {
             "iconPath": "../../assets/icons/Folder_ERROR_open.svg"
         },
-
+        
         "folder-event" : {
             "iconPath": "../../assets/icons/Folder_EVENT_close.svg"
         },
         "folder-event-open" : {
             "iconPath": "../../assets/icons/Folder_EVENT_open.svg"
         },
-
+        
         "folder-font" : {
             "iconPath": "../../assets/icons/Folder_FONT_close.svg"
         },
         "folder-font-open" : {
             "iconPath": "../../assets/icons/Folder_FONT_open.svg"
         },
-
+        
         "folder-git" : {
             "iconPath": "../../assets/icons/Folder_GIT_close.svg"
         },
         "folder-git-open" : {
             "iconPath": "../../assets/icons/Folder_GIT_open.svg"
         },
-
+        
         "folder-gradle" : {
             "iconPath": "../../assets/icons/Folder_GRADLE_close.svg"
         },
         "folder-gradle-open" : {
             "iconPath": "../../assets/icons/Folder_GRADLE_open.svg"
         },
-
+        
         "folder-home" : {
             "iconPath": "../../assets/icons/Folder_HOME_close.svg"
         },
         "folder-home-open" : {
             "iconPath": "../../assets/icons/Folder_HOME_open.svg"
         },
-
+        
         "folder-image" : {
             "iconPath": "../../assets/icons/Folder_IMAGES_close.svg"
         },
         "folder-image-open" : {
             "iconPath": "../../assets/icons/Folder_IMAGES_open.svg"
         },
-
+        
         "folder-in" : {
             "iconPath": "../../assets/icons/Folder_IN_close.svg"
         },
         "folder-in-open" : {
             "iconPath": "../../assets/icons/Folder_IN_open.svg"
         },
-
+        
         "folder-interface" : {
             "iconPath": "../../assets/icons/Folder_INTERFACE_close.svg"
         },
         "folder-interface-open" : {
             "iconPath": "../../assets/icons/Folder_INTERFACE_open.svg"
         },
-
+        
         "folder-ios" : {
             "iconPath": "../../assets/icons/Folder_IOS_close.svg"
         },
         "folder-ios-open" : {
             "iconPath": "../../assets/icons/Folder_IOS_open.svg"
         },
-
+        
         "folder-java" : {
             "iconPath": "../../assets/icons/Folder_JAVA_close.svg"
         },
         "folder-java-open" : {
             "iconPath": "../../assets/icons/Folder_JAVA_open.svg"
         },
-
+        
         "folder-javascript" : {
             "iconPath": "../../assets/icons/Folder_JAVASCRIPT_close.svg"
         },
         "folder-javascript-open" : {
             "iconPath": "../../assets/icons/Folder_JAVASCRIPT_open.svg"
         },
-
+        
         "folder-keys" : {
             "iconPath": "../../assets/icons/Folder_KEYS_close.svg"
         },
         "folder-keys-open" : {
             "iconPath": "../../assets/icons/Folder_KEYS_open.svg"
         },
-
+        
         "folder-layout" : {
             "iconPath": "../../assets/icons/Folder_LAYOUT_close.svg"
         },
         "folder-layout-open" : {
             "iconPath": "../../assets/icons/Folder_LAYOUT_open.svg"
         },
-
+        
         "folder-lib" : {
             "iconPath": "../../assets/icons/Folder_LIBS_close.svg"
         },
         "folder-lib-open" : {
             "iconPath": "../../assets/icons/Folder_LIBS_open.svg"
         },
-
+        
         "folder-log" : {
             "iconPath": "../../assets/icons/Folder_LOGS_close.svg"
         },
         "folder-log-open" : {
             "iconPath": "../../assets/icons/Folder_LOGS_open.svg"
         },
-
+        
         "folder-middleware" : {
             "iconPath": "../../assets/icons/Folder_MIDDLEWARE_close.svg"
         },
         "folder-middleware-open" : {
             "iconPath": "../../assets/icons/Folder_MIDDLEWARE_open.svg"
         },
-
+        
         "folder-network" : {
             "iconPath": "../../assets/icons/Folder_NETWORK_close.svg"
         },
         "folder-network-open" : {
             "iconPath": "../../assets/icons/Folder_NETWORK_open.svg"
         },
-
+        
         "folder-node" : {
             "iconPath": "../../assets/icons/Folder_NODE_close.svg"
         },
         "folder-node-open" : {
             "iconPath": "../../assets/icons/Folder_NODE_open.svg"
         },
-
+        
         "folder-package" : {
             "iconPath": "../../assets/icons/Folder_PACKAGE_close.svg"
         },
         "folder-package-open" : {
             "iconPath": "../../assets/icons/Folder_PACKAGE_open.svg"
         },
-
+        
         "folder-page" : {
             "iconPath": "../../assets/icons/Folder_PAGE_close.svg"
         },
         "folder-page-open" : {
             "iconPath": "../../assets/icons/Folder_PAGE_open.svg"
         },
-
+        
         "folder-pipe" : {
             "iconPath": "../../assets/icons/Folder_PIPE_close.svg"
         },
         "folder-pipe-open" : {
             "iconPath": "../../assets/icons/Folder_PIPE_open.svg"
         },
-
+        
         "folder-private" : {
             "iconPath": "../../assets/icons/Folder_PRIVATE_close.svg"
         },
         "folder-private-open" : {
             "iconPath": "../../assets/icons/Folder_PRIVATE_open.svg"
         },
-
+        
         "folder-server" : {
             "iconPath": "../../assets/icons/Folder_SERVER_close.svg"
         },
         "folder-server-open" : {
             "iconPath": "../../assets/icons/Folder_SERVER_open.svg"
         },
-
+        
         "folder-src" : {
             "iconPath": "../../assets/icons/Folder_SRC_close.svg"
         },
         "folder-src-open" : {
             "iconPath": "../../assets/icons/Folder_SRC_open.svg"
         },
-
+        
         "folder-style" : {
             "iconPath": "../../assets/icons/Folder_STYLE_close.svg"
         },
         "folder-style-open" : {
             "iconPath": "../../assets/icons/Folder_STYLE_open.svg"
         },
-
+        
         "folder-temp" : {
             "iconPath": "../../assets/icons/Folder_TEMP_close.svg"
         },
         "folder-temp-open" : {
             "iconPath": "../../assets/icons/Folder_TEMP_open.svg"
         },
-
+        
         "folder-test" : {
             "iconPath": "../../assets/icons/Folder_TEST_close.svg"
         },
         "folder-test-open" : {
             "iconPath": "../../assets/icons/Folder_TEST_open.svg"
         },
-
+        
         "folder-typescript" : {
             "iconPath": "../../assets/icons/Folder_TYPESCRIPT_close.svg"
         },
         "folder-typescript-open" : {
             "iconPath": "../../assets/icons/Folder_TYPESCRIPT_open.svg"
         },
-
+        
         "folder-vm" : {
             "iconPath": "../../assets/icons/Folder_VM_close.svg"
         },
         "folder-vm-open" : {
             "iconPath": "../../assets/icons/Folder_VM_open.svg"
         },
-
+        
         "folder-vscode" : {
             "iconPath": "../../assets/icons/Folder_VSCODE_close.svg"
         },
         "folder-vscode-open" : {
             "iconPath": "../../assets/icons/Folder_VSCODE_open.svg"
         },
-
+        
         "folder-yarn" : {
             "iconPath": "../../assets/icons/Folder_YARN_close.svg"
         },
         "folder-yarn-open" : {
             "iconPath": "../../assets/icons/Folder_YARN_open.svg"
         },
-
+        
         //adobe
         "adobe-bridge" : {
             "iconPath": "../../assets/icons/AdobeBridge.svg"
@@ -2451,7 +2439,7 @@
         "adobe-premiere-pro" : {
             "iconPath": "../../assets/icons/PremierePro.svg"
         },
-
+        
         //microsoft
         "ms-docx" : {
             "iconPath": "../../assets/icons/DOCX.svg"
@@ -2465,7 +2453,7 @@
         "ms-xlsx" : {
             "iconPath": "../../assets/icons/XLSX.svg"
         },
-
+        
         //jetbrains
         "jetbrains" : {
             "iconPath": "../../assets/icons/JetBrains.svg"
@@ -2491,11 +2479,10 @@
         "jb-webstorm" : {
             "iconPath": "../../assets/icons/WebStorm.svg"
         },
-
-
-        // award 
+        
+        // award
         "award-1k" : {
             "iconPath": "../../assets/icons/1K.svg"
-        },
+        }
     }
 }

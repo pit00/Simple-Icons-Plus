@@ -1,44 +1,41 @@
 {
-    "name": "simple-icons",
-    "displayName": "Simple Icons",
-    "author": { 
-        "name": "Comdec_"
-     },
+    "name": "simple-icons-plus",
+    "displayName": "Simple Icons Plus",
+    "author": {
+        "name": "pit00"
+    },
     "publisher": "comdec",
-    "description": "BETA version of simple icon theme",
-    "version": "0.1.6",
+    "description": "Fork of simple icon theme",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.63.0"
     },
     "icon": "LOGO.png",
     "repository": {
-		"type": "git",
-		"url": "https://github.com/Comdec35000/Simple-Icons"
-	},
-    "bugs": {
-        "url": "https://github.com/Comdec35000/Simple-Icons/issues/new"
+        "type": "git",
+        "url": "https://github.com/pit00/Simple-Icons-Plus"
     },
     "categories": [
         "Themes"
     ],
     "keywords": [
-		"icons",
-		"theme",
-		"icon-theme",
-		"customization",
+        "icons",
+        "theme",
+        "icon-theme",
+        "customization",
         "simple"
-	],
+    ],
     "extensionKind": [
-		"ui",
-		"workspace"
-	],
+        "ui",
+        "workspace"
+    ],
     "contributes": {
         "iconThemes": [
             {
-              "id": "simple-icons",
-              "label": "Simple Icons",
-              "path": "./themes/icons/default-icon-theme.json"
+            "id": "simple-icons-plues",
+            "label": "Simple Icons Plus",
+            "path": "./themes/icons/default-icon-theme.json"
             }
-          ]
+        ]
     }
 }
