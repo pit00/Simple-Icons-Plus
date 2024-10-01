@@ -4,13 +4,12 @@
     "author": {
         "name": "pit00"
     },
-    "publisher": "comdec",
     "description": "Fork of simple icon theme",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.63.0"
     },
-    "icon": "./assets/logo.png",
+    "icon": "assets/logo.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/pit00/Simple-Icons-Plus"

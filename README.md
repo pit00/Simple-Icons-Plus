@@ -22,12 +22,6 @@
 * Cyan: ![#2EB4FF](https://placehold.co/16/2EB4FF/2EB4FF.png)#2EB4FF
 * Turquoise: ![#00F3C8](https://placehold.co/16/00F3C8/00F3C8.png)#00F3C8
 
-<!-- # Changelog
-
-```diff
-
-``` -->
-
 # Currently available icons (deprecated)
 
 ![sample](./assets/sample.png)

@@ -493,6 +493,15 @@
         //r
         "r" : "r",
         
+        //rds
+        "rds" : "rds",
+        
+        // rd
+        "rd" : "rds",
+        
+        //lock
+        "lock" : "lock",
+        
         //react
         "jsx": "react",
         "tsx": "react",
@@ -734,6 +743,11 @@
         
         //r
         "r" : "r",
+
+        // "rignore": "rignore",
+        
+        //lock
+        // "lock" : "lock",
         
         //react
         "javascriptreact": "react",
@@ -930,6 +944,14 @@
         ".gitkeep": "git",
         ".gitinclude": "git",
         "git-history": "git",
+        
+        // rignore
+        ".Rbuildignore" : "rignore",
+        "DESCRIPTION": "r",
+        ".lintr": "rds",
+        ".Rprofile": "rds",
+        "WORDLIST": "rds",
+        "NAMESPACE": "rignore",
         
         //go
         "go.mod": "gomod",
@@ -1766,6 +1788,9 @@
         "git" : {
             "iconPath": "../../assets/icons/Git.svg"
         },
+        "rignore" : {
+            "iconPath": "../../assets/icons/rignore.svg"
+        },
         "glsl" : {
             "iconPath": "../../assets/icons/GLSL.svg"
         },
@@ -1920,7 +1945,13 @@
             "iconPath": "../../assets/icons/Quark.svg"
         },
         "r" : {
+            "iconPath": "../../assets/icons/rds.svg"
+        },
+        "rds" : {
             "iconPath": "../../assets/icons/R.svg"
+        },
+        "lock" : {
+            "iconPath": "../../assets/icons/lock.svg"
         },
         "react" : {
             "iconPath": "../../assets/icons/React.svg"
