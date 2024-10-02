@@ -32,7 +32,7 @@
     "contributes": {
         "iconThemes": [
             {
-            "id": "simple-icons-plues",
+            "id": "simple-icons-plus",
             "label": "Simple Icons Plus",
             "path": "./themes/icons/default-icon-theme.json"
             }
