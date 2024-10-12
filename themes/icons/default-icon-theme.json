@@ -99,7 +99,8 @@
         //txt
         "txt" : "text",
         
-        
+        //reg
+        "reg" : "reg",
         
         // ADOBE
         
@@ -1656,6 +1657,9 @@
         },
         "text" : {
             "iconPath": "../../assets/icons/File_Text.svg"
+        },
+        "reg" : {
+            "iconPath": "../../assets/icons/REG.svg"
         },
         "audio" : {
             "iconPath": "../../assets/icons/File_Music.svg"
