@@ -319,7 +319,9 @@
         //fortan
         "f" : "fortan",
         "for" : "fortan",
+        "f03" : "fortan",
         "f90" : "fortan",
+        "f95" : "fortan",
         
         //fsharp
         "fs" : "fsharp",
