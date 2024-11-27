@@ -1123,6 +1123,9 @@
         //xml
         ".htaccess": "xml",
         
+        // yml ignore
+        ".gitbook.yaml": "ymlig",
+        
         //award
         "_THANK YOU 1K": "award-1k"
     },
@@ -1251,6 +1254,8 @@
         //git
         "git": "folder-git",
         ".git": "folder-git",
+        ".github": "folder-git",
+        ".gitbook": "folder-git",
         
         //gradle
         "gradle": "folder-gradle",
@@ -1517,6 +1522,8 @@
         //git
         "git": "folder-git-open",
         ".git": "folder-git-open",
+        ".github": "folder-git-open",
+        ".gitbook": "folder-git-open",
         
         //gradle
         "gradle": "folder-gradle-open",
@@ -2090,6 +2097,9 @@
         },
         "yaml": {
             "iconPath": "../../assets/icons/YAML.svg"
+        },
+        "ymlig": {
+            "iconPath": "../../assets/icons/YAMLig.svg"
         },
         "zig": {
             "iconPath": "../../assets/icons/Zig.svg"
