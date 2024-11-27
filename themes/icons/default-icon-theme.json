@@ -991,6 +991,9 @@
         //heroku
         "Procfile": "heroku",
         
+        // html lint
+        ".htmlhintrc": "htmlint",
+        
         //jest
         "jest.config.js": "jest",
         
@@ -1848,6 +1851,9 @@
         },
         "html": {
             "iconPath": "../../assets/icons/HTML.svg"
+        },
+        "htmlint": {
+            "iconPath": "../../assets/icons/HTMLint.svg"
         },
         "idris": {
             "iconPath": "../../assets/icons/Idris.svg"
