@@ -1,8 +1,16 @@
-<svg width="161" height="161" viewBox="0 0 161 161" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M152.059 69.0589L91.6863 8.68629C85.4379 2.4379 75.3073 2.43791 69.0589 8.6863L8.68629 69.0589C2.4379 75.3073 2.43791 85.4379 8.6863 91.6863L69.0589 152.059C75.3073 158.307 85.4379 158.307 91.6863 152.059L152.059 91.6863C158.307 85.4379 158.307 75.3073 152.059 69.0589Z" stroke="#D6E0E3" stroke-width="8"/>
-<circle cx="80" cy="44" r="17.5" fill="#D6E0E3" stroke="#D6E0E3"/>
-<circle cx="80" cy="116" r="17.5" fill="#D6E0E3" stroke="#D6E0E3"/>
-<circle cx="116" cy="80" r="17.5" fill="#D6E0E3" stroke="#D6E0E3"/>
-<rect x="50.7696" y="24.2559" width="12" height="69.2584" transform="rotate(-45 50.7696 24.2559)" fill="#D6E0E3" stroke="#D6E0E3"/>
-<rect x="73.5" y="52.5" width="12" height="69.2584" fill="#D6E0E3" stroke="#D6E0E3"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 161 161" style="enable-background:new 0 0 161 161;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#524E5A;stroke:#524E5A;}
+	.st1{fill:none;stroke:#D6E0E3;stroke-width:8;}
+</style>
+<circle class="st0" cx="80" cy="44" r="17.5"/>
+<circle class="st0" cx="80" cy="116" r="17.5"/>
+<circle class="st0" cx="116" cy="80" r="17.5"/>
+<rect x="73.5" y="9.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -8.1815 69.2478)" class="st0" width="12" height="69.3"/>
+<rect x="73.5" y="52.5" class="st0" width="12" height="69.3"/>
+<path class="st1" d="M152.1,69.1L91.7,8.7c-6.2-6.2-16.4-6.2-22.6,0L8.7,69.1c-6.2,6.2-6.2,16.4,0,22.6l60.4,60.4
+	c6.2,6.2,16.4,6.2,22.6,0l60.4-60.4C158.3,85.4,158.3,75.3,152.1,69.1z"/>
 </svg>
