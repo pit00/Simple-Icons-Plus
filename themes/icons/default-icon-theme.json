@@ -300,7 +300,7 @@
         "dart": "dart",
         
         //docker
-        "dockerignore": "docker",
+        "dockerignore": "dockerig",
         "dockerfile": "docker",
         
         //ejs
@@ -870,7 +870,7 @@
         "dockerfile.ci": "docker",
         "dockerfile.web": "docker",
         "dockerfile.worker": "docker",
-        "docker-compose.yml": "docker",
+        "docker-compose.yml": "dockercomp",
         "docker-compose.override.yml": "docker",
         "docker-compose.prod.yml": "docker",
         "docker-compose.production.yml": "docker",
@@ -946,7 +946,6 @@
         "gemfile": "gemfile",
         
         //git
-        ".gitignore": "git",
         ".gitignore_global": "git",
         ".gitconfig": "git",
         ".gitattributes": "git",
@@ -954,6 +953,8 @@
         ".gitkeep": "git",
         ".gitinclude": "git",
         "git-history": "git",
+        
+        ".gitignore": "gitig",
         
         // rignore
         ".Rbuildignore": "rignore",
@@ -1774,6 +1775,12 @@
         "docker": {
             "iconPath": "../../assets/icons/Docker.svg"
         },
+        "dockerig": {
+            "iconPath": "../../assets/icons/DockerIg.svg"
+        },
+        "dockercomp": {
+            "iconPath": "../../assets/icons/DockerComp.svg"
+        },
         "editor-config": {
             "iconPath": "../../assets/icons/EditorConfig.svg"
         },
@@ -1809,6 +1816,9 @@
         },
         "git": {
             "iconPath": "../../assets/icons/Git.svg"
+        },
+        "gitig": {
+            "iconPath": "../../assets/icons/Gitig.svg"
         },
         "rignore": {
             "iconPath": "../../assets/icons/rignore.svg"
