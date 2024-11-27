@@ -902,6 +902,7 @@
         "docker-compose.ci.yaml": "docker",
         "docker-compose.web.yaml": "docker",
         "docker-compose.worker.yaml": "docker",
+        ".env.docker": "dockerig",
         
         //editor-config
         ".editorconfig": "editor-config",
