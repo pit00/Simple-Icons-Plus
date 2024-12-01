@@ -5,7 +5,6 @@
     
     "fileExtensions": {
         // DEFAULT
-        
         //3d
         "stl": "3d",
         "obj": "3d",
@@ -19,7 +18,6 @@
         "vac": "3d",
         "vdp": "3d",
         "vox": "3d",
-        
         //audio
         "mp3": "audio",
         "flac": "audio",
@@ -27,7 +25,6 @@
         "wma": "audio",
         "aiff": "audio",
         "wav": "audio",
-        
         //font
         "woff": "font",
         "woff2": "font",
@@ -44,7 +41,6 @@
         "sui": "font",
         "ntf": "font",
         "mrf": "font",
-        
         //image
         "png": "image",
         "jpeg": "image",
@@ -95,34 +91,26 @@
         "pbm": "image",
         "pgm": "image",
         "pnm": "image",
-        
         //txt
         "txt": "text",
-        
         //reg
         "reg": "reg",
         
         // ADOBE
-        
         //adobe bridge
         "adobebridge": "adobe-bridge",
         "bc": "adobe-bridge",
         "bcm": "adobe-bridge",
         "bct": "adobe-bridge",
-        
         //adobe-aftereffects
         "aep": "adobe-after-effects",
         "ae": "adobe-after-effects",
-        
         //adobe-audition
         "sesx": "adobe-audition",
-        
         //adobe-dreamweather
         "dwt": "adobe-dreamweather",
-        
         //adobe-illustrator
         "ai": "adobe-illustrator",
-        
         //adobe-incopy
         "inc": "adobe-incopy",
         "icap": "adobe-incopy",
@@ -130,7 +118,6 @@
         "icml": "adobe-incopy",
         "inca": "adobe-incopy",
         "incx": "adobe-incopy",
-        
         //adobe-indesign
         "idap": "adobe-indesign",
         "ind": "adobe-indesign",
@@ -140,19 +127,15 @@
         "indt": "adobe-indesign",
         "idml": "adobe-indesign",
         "inx": "adobe-indesign",
-        
         //adobe-lightroom
         "lr": "adobe-lightroom",
-        
         //adobe-photoshop
         "psd": "adobe-photoshop",
-        
         //adobe-premierepro
         "pproj": "adobe-premiere-pro",
         "ppr": "adobe-premiere-pro",
         
         // MICROSOFT
-        
         //ms-docx
         "doc": "ms-docx",
         "docm": "ms-docx",
@@ -161,10 +144,8 @@
         "dotm": "ms-docx",
         "dotx": "ms-docx",
         "odt": "ms-docx",
-        
         //ms-note
         "one": "ms-note",
-        
         //ms-pptx
         "pot": "ms-pptx",
         "potm": "ms-pptx",
@@ -177,7 +158,6 @@
         "ppt": "ms-pptx",
         "pptm": "ms-pptx",
         "pptx": "ms-pptx",
-        
         //ms-xlsx
         "csv": "ms-xlsx",
         "ods": "ms-xlsx",
@@ -193,21 +173,18 @@
         "xlw": "ms-xlsx",
         
         // FILES
-        
+        // A
         //ada
         "adb": "ada",
         "ads": "ada",
-        
         //agda
         "agda": "agda",
         "lagda": "agda",
         "lagda.md": "agda",
         "lagda.rst": "agda",
         "lagda.tex": "agda",
-        
         //android
         "apk": "android",
-        
         //angular
         "module.ts": "angular",
         "module.js": "angular",
@@ -225,11 +202,9 @@
         "directive.js": "angular",
         "resolver.ts": "angular",
         "resolver.js": "angular",
-        
         //apple
         "applescript": "apple",
         "ipa": "apple",
-        
         //assembly
         "asm": "asm",
         "a51": "asm",
@@ -243,127 +218,106 @@
         "mitigus": "asm",
         "binsource": "asm",
         
+        // B
         //binaries
         "exe": "binaries",
         "dll": "binaries",
         "dlc": "binaries",
-        
         //brainfuck
         "bf": "brainfuck",
         
+        // C
         //c--
         "c--": "c--",
-        
         //c
         "c": "c",
-        
         //cabal
         "cabal": "cabal",
-        
         //clojure
         "clj": "clojure",
         "cljs": "clojure",
         "cljc": "clojure",
-        
         //cmake
         "cmake": "cmake",
-        
         //cobol
         "cob": "cobol",
         "cbl": "cobol",
-        
         //cpp
         "cc": "cpp",
         "cpp": "cpp",
         "cxx": "cpp",
         "c++": "cpp",
         "cp": "cpp",
-        
         //crystal
         "cr": "crystal",
-        
         //csharp
         "cs": "csharp",
         "csx": "csharp",
-        
         //css
         "css": "css",
         "css.map": "css",
-        
         //cfg
         "cfg": "cfg",
         
+        // D
         //d
         "d": "d",
-        
         //dart
         "dart": "dart",
-        
         //docker
         "dockerignore": "dockerig",
         "dockerfile": "docker",
         
+        // E
         //ejs
         "ejs": "ejs",
-        
         //elexir
         "ex": "elexir",
         "exs": "elexir",
-        
         //elm
         "elm": "elm",
-        
         //env
         "env": "env",
-        
         //erlang
         "erl": "erlang",
         
+        // F
         //fortan
         "f": "fortan",
         "for": "fortan",
         "f90": "fortan",
-        
         //fsharp
         "fs": "fsharp",
         "fsi": "fsharp",
         "fsx": "fsharp",
         "fsscript": "fsharp",
-        
         //figma
         "fig": "figma",
         
+        // G
         //git
         "patch": "git",
-        
         //glsl
         "glsl": "glsl",
-        
         //go
         "go": "go",
-        
         //gradle
         "gradle": "gradle",
-        
         //graphql
         "graphql": "graphql",
         "gql": "graphql",
-        
         //groovy
         "groovy": "groovy",
         
+        // H
         //h
         "h": "h",
-        
         //haskell
         "hs": "haskell",
-        
         //haxe
         "hx": "haxe",
-        
         //holyc
         "hc": "holyc",
-        
         //hpp
         "hh": "hpp",
         "hpp": "hpp",
@@ -372,7 +326,6 @@
         "hp": "hpp",
         "tcc": "hpp",
         "inl": "hpp",
-        
         //html
         "htm": "html",
         "html": "html",
@@ -380,35 +333,30 @@
         "html_vm": "html",
         "asp": "html",
         
+        // I
         //idris
         "idr": "idris",
         "ibc": "idris",
-        
         //ini
         "ini": "ini",
         
+        // J
         //jar
         "jar": "jar",
-        
         //java
         "java": "java",
         "jsp": "java",
-        
         //javaclass
         "class": "javaclass",
-        
         //javascript
         "js": "javascript",
         "esx": "javascript",
-        
         //jetbrains
         "iml": "jetbrains",
         "ipr": "jetbrains",
         "iws": "jetbrains",
-        
         //julia
         "jl": "julia",
-        
         //json
         "json": "json",
         "tsbuildinfo": "json",
@@ -416,63 +364,58 @@
         "jsonl": "json",
         "ndjson": "json",
         
+        // K
         //kotlin
         "kt": "kotlin",
         "kts": "kotlin",
         
+        // L
         //laravel
         "blade.php": "laravel",
         "inky.php": "laravel",
-        
         //lisp
         "lisp": "lisp",
-        
         //lua
         "lua": "lua",
         
+        // M
         //matlab
         "mat": "matlab",
-        
         //minecraft
         "mcfunction": "minecraft",
-        
         //minecraft-meta
         "mcmeta": "minecraft-meta",
-        
         //mjs
         "mjs": "mjs",
-        
         //md
         "md": "md",
         "markdown": "md",
         "rst": "md",
         
+        // N
         //nim
         "nim": "nim",
         "nims": "nim",
-        
         //ninja
         "ninja": "ninja",
         
+        // O
         //objc
         "m": "objc",
         "mm": "objc",
         
+        // P
         //pdf
         "pdf": "pdf",
-        
         //perl
         "pl": "perl",
         "pm": "perl",
         "raku": "perl",
-        
         //php
         "php": "php",
-        
         //postcss
         "pcss": "postcss",
         "sss": "postcss",
-        
         //powershell
         "ps1": "powershell",
         "psm1": "powershell",
@@ -480,54 +423,45 @@
         "ps1xml": "powershell",
         "psc1": "powershell",
         "pssc": "powershell",
-        
         //prisma
         "prisma": "prisma",
-        
         //pyc
         "pyc": "pyc",
         "whl": "pyc",
-        
         //python
         "py": "python",
         
+        // Q
         //quark
         "qrk": "quark",
         
+        // R
         //r
         "r": "r",
-        
         //rds
         "rds": "rds",
-        
         // rd
         "rd": "rds",
-        
         //lock
         "lock": "lock",
-        
         //react
         "jsx": "react",
         "tsx": "react",
-        
         //ruby
         "rb": "ruby",
         "erb": "ruby",
-        
         //rust
         "rs": "rust",
         
+        // S
         //sass
         "scss": "sass",
         "sass": "sass",
-        
         //scala
         "sc": "scala",
         "scala": "scala",
-        
         //solidity
         "sol": "solidity",
-        
         //sql
         "db": "sql",
         "sql": "sql",
@@ -535,44 +469,43 @@
         "sqlite3": "sql",
         "pgsql": "sql",
         "psql": "sql",
-        
         //svelte
         "svelte": "svelte",
-        
         //svg
         "svg": "svg",
-        
         //swift
         "swift": "swift",
+        // subtitle
+        "srt": "sub",
         
+        // T
         //terrabyte
         "tbs": "terrabyte",
-        
         //text
         "plaintext": "document",
-        
         //typescript
         "d.ts": "typescript",
         "ts": "typescript",
         
+        // V
         //vim
         "vimrc": "vim",
         "gvimrc": "vim",
         "exrc": "vim",
         "vim": "vim",
         "viminfo": "vim",
-        
         //toml
         "toml": "toml",
         
+        // U
         //unity
         "meta": "unity",
         
+        // V
         //vbs
         "vb": "vba",
         "vba": "vba",
         "vbs": "vba",
-        
         //visualstudio
         "csproj": "visualstudio",
         "ruleset": "visualstudio",
@@ -582,20 +515,20 @@
         "vcxitems.filters": "visualstudio",
         "vcxproj": "visualstudio",
         "vcxproj.filters": "visualstudio",
-        
         //vue
         "vue": "vue",
-        
         //vsc
         "vscodeignore": "vscig",
         "vsixmanifest": "vsc",
         "vsix": "vsc",
         "code-workplace": "vsc",
         
+        // W
         //wasm
         "wat": "wasm",
         "wasm": "wasm",
         
+        // X
         //xml
         "xml": "xml",
         "plist": "xml",
@@ -612,6 +545,7 @@
         "xml.dist.sample": "xml",
         "dmn": "xml",
         
+        // Y
         //yaml
         "yml": "yaml",
         "yaml": "yaml",
@@ -619,9 +553,9 @@
         "yaml.dist": "yaml",
         "YAML-tmLanguage": "yaml",
         
+        // Z
         //zig
         "zig": "zig",
-        
         //zip
         "zip": "zip",
         "gz": "zip",
@@ -2040,6 +1974,9 @@
         },
         "swift": {
             "iconPath": "../../assets/icons/Swift.svg"
+        },
+        "sub": {
+            "iconPath": "../../assets/icons/Sub.svg"
         },
         "tailwind": {
             "iconPath": "../../assets/icons/Tailwind.svg"
