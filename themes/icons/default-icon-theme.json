@@ -716,6 +716,9 @@
         //swift
         "swift": "swift",
         
+        //snippets
+        "snippets": "json",
+        
         //typescript
         "typescript": "typescript",
         

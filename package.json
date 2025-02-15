@@ -6,7 +6,7 @@
     },
     "publisher": "pit00",
     "description": "Fork of simple icon theme",
-    "version": "1.0.12",
+    "version": "1.0.13",
     "engines": {
         "vscode": "^1.63.0"
     },
